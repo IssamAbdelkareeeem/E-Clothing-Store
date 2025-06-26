@@ -47,7 +47,4 @@ The project enhances a dynamic product listing page by applying modern CSS layou
 - All styling is handled through a single, clean external stylesheet.
 - The tooltip is implemented **without JavaScript**, relying purely on HTML/CSS interactions.
 
----
-
-## 📁 Folder Structure
 
