@@ -48,3 +48,4 @@ view.php — Handles product detail viewing.
 
 clothingStore.sql — SQL dump of the sample product database.
 
+🔗 To test the website : **https://web1211821.studentprojects.ritaj.ps/ass/assThree/products.php** 🔗
