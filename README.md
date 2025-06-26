@@ -2,6 +2,10 @@
 
 This project is part of the "Web Application and Technologies" course (COMP 334)
 
+**Main Page**
+![image](https://github.com/user-attachments/assets/fe3a8ed0-26e4-4dfc-9bcb-af71061a79ae)
+
+
 Overview
 
 The project enhances a dynamic product listing page by applying modern CSS layout techniques (Grid and Flexbox) and interactive visual features. The data is fetched and displayed using products.php, with styling implemented entirely through external CSS—no inline or embedded styles.
