@@ -1,4 +1,4 @@
-Product Listing & Styling (Assignment 3 - COMP 334)
+#Product Listing & Styling (Assignment 3 - COMP 334)
 
 This project is part of the "Web Application and Technologies" course (COMP 334)
 
